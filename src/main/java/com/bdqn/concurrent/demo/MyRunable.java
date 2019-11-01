@@ -2,7 +2,7 @@ package com.bdqn.concurrent.demo;
 
 /**
  * 线程实现方式
- * 实现 Runnable 接口
+ * 实现 Runnable 接口 啊撒啊
  */
 public class MyRunable implements Runnable {
 
